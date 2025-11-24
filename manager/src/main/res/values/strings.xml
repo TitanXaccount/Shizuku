@@ -1,5 +1,3 @@
-<?xml version='1.0' encoding='utf-8' ?>
-<resources>
     <string name="0_resource_name_obfuscated">Navigate up</string>
     <string name="0_resource_name_obfuscated_7f110003">Done</string>
     <string name="0_resource_name_obfuscated_7f110006">OFF</string>
@@ -295,4 +293,3 @@ has been copied to clipboard.</string>
     <string name="0_resource_name_obfuscated_7f110158">Turn Off Alerts</string>
     <string name="0_resource_name_obfuscated_7f110159">Shizuku Service Restarted, Tap to learn about potential fixes to prevent future crashes.</string>
     <string name="0_resource_name_obfuscated_7f11015a">Shizuku crashed recently</string>
-</resources>
