@@ -1,226 +1,298 @@
+<?xml version='1.0' encoding='utf-8' ?>
 <resources>
-    <string name="app_name" translatable="false">Shizuku</string>
+    <string name="0_resource_name_obfuscated">Navigate up</string>
+    <string name="0_resource_name_obfuscated_7f110003">Done</string>
+    <string name="0_resource_name_obfuscated_7f110006">OFF</string>
+    <string name="0_resource_name_obfuscated_7f110007">ON</string>
+    <string name="0_resource_name_obfuscated_7f110008">Alt+</string>
+    <string name="0_resource_name_obfuscated_7f110009">Ctrl+</string>
+    <string name="0_resource_name_obfuscated_7f11000a">delete</string>
+    <string name="0_resource_name_obfuscated_7f11000b">enter</string>
+    <string name="0_resource_name_obfuscated_7f11000c">Function+</string>
+    <string name="0_resource_name_obfuscated_7f11000d">Meta+</string>
+    <string name="0_resource_name_obfuscated_7f11000e">Shift+</string>
+    <string name="0_resource_name_obfuscated_7f11000f">space</string>
+    <string name="0_resource_name_obfuscated_7f110010">Sym+</string>
+    <string name="0_resource_name_obfuscated_7f110011">Menu+</string>
+    <string name="0_resource_name_obfuscated_7f110012">Search…</string>
+    <string name="0_resource_name_obfuscated_7f110013">Clear query</string>
+    <string name="0_resource_name_obfuscated_7f110015">Search</string>
+    <string name="0_resource_name_obfuscated_7f110016">Submit query</string>
+    <string name="0_resource_name_obfuscated_7f110017">Voice search</string>
+    <string name="0_resource_name_obfuscated_7f11001a">Collapse</string>
+    <string name="0_resource_name_obfuscated_7f11001b">View source code at %s</string>
+    <string name="0_resource_name_obfuscated_7f11001c">About</string>
+    <string name="0_resource_name_obfuscated_7f11001d">Stop Shizuku</string>
+    <string name="0_resource_name_obfuscated_7f11001e">Unable to generate key for wireless debugging.
+This may be because KeyStore mechanism of this device is broken.</string>
+    <string name="0_resource_name_obfuscated_7f11001f">Failed to stop ADB over TCP</string>
+    <string name="0_resource_name_obfuscated_7f110020">Please go through the pairing step first.</string>
+    <string name="0_resource_name_obfuscated_7f110021">Pairing</string>
+    <string name="0_resource_name_obfuscated_7f110022">Please enter split-screen (multi-window) mode first.</string>
+    <string name="0_resource_name_obfuscated_7f110023">The system requires the pairing dialog always visible, using split-screen mode is the only way to let this app and system dialog visible at the same time.</string>
+    <string name="0_resource_name_obfuscated_7f110024">Enter The Code In The Notification To Complete Pairing.</string>
+    <string name="0_resource_name_obfuscated_7f110025">Back to Shizuku and start Shizuku.</string>
+    <string name="0_resource_name_obfuscated_7f110026">Please note, left part of the "Wireless debugging" option is clickable, tapping it will open a new page. Only turing on the switch on the right is incorrect.</string>
+    <string name="0_resource_name_obfuscated_7f110027">MIUI users may need to switch notification style to "Android" from "Notification" - "Notification shade" in system settings.</string>
+    <string name="0_resource_name_obfuscated_7f110028">Otherwise, you may not able to enter paring code from the notification.</string>
+    <string name="0_resource_name_obfuscated_7f110029">Shizuku needs to access local network. It is controlled by the network permission.</string>
+    <string name="0_resource_name_obfuscated_7f11002a">Some systems (such as MIUI) disallow apps to access the network when they are not visible, even if the app uses foreground service as standard. Please disable battery optimization features for Shizuku on such systems.</string>
+    <string name="0_resource_name_obfuscated_7f11002b">A notification from Shizuku will help you complete the pairing.</string>
+    <string name="0_resource_name_obfuscated_7f11002c">The pairing process needs you to interact with a notification from Shizuku. Please allow Shizuku to post notifications.</string>
+    <string name="0_resource_name_obfuscated_7f11002d">Enter "Developer options" - "Wireless debugging". Tap "Pair device with pairing code", you will see a six-digit code.</string>
+    <string name="0_resource_name_obfuscated_7f11002e">Pair Shizuku with your device</string>
+    <string name="0_resource_name_obfuscated_7f11002f">androidx.startup</string>
+    <string name="0_resource_name_obfuscated_7f110030">It's highly possible that your device manufacturer limits the permission of adb.&lt;p&gt;There may be a solution for your system in &lt;b&gt;&lt;a href="%1$s"&gt;this document&lt;/a&gt;&lt;/b&gt;.</string>
+    <string name="0_resource_name_obfuscated_7f110031">The permission of adb is limited</string>
+    <string name="0_resource_name_obfuscated_7f110032">* requires Shizuku runs with root</string>
+    <string name="0_resource_name_obfuscated_7f110033">Shizuku</string>
+    <string name="0_resource_name_obfuscated_7f110034">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="0_resource_name_obfuscated_7f110035">https://github.com/thedjchi/Shizuku/wiki#using-automation-apps-to-startstop-shizuku</string>
+    <string name="0_resource_name_obfuscated_7f110036">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="0_resource_name_obfuscated_7f110037">Collapse the bottom sheet</string>
+    <string name="0_resource_name_obfuscated_7f110038">Expand the bottom sheet</string>
+    <string name="0_resource_name_obfuscated_7f110039">Expand halfway</string>
+    <string name="0_resource_name_obfuscated_7f11003a">Drag handle double-tapped</string>
+    <string name="0_resource_name_obfuscated_7f11003b">Drag handle</string>
+    <string name="0_resource_name_obfuscated_7f11003c">Answer</string>
+    <string name="0_resource_name_obfuscated_7f11003d">Video</string>
+    <string name="0_resource_name_obfuscated_7f11003e">Decline</string>
+    <string name="0_resource_name_obfuscated_7f11003f">Hang Up</string>
+    <string name="0_resource_name_obfuscated_7f110040">Incoming call</string>
+    <string name="0_resource_name_obfuscated_7f110041">Ongoing call</string>
+    <string name="0_resource_name_obfuscated_7f110042">Screening an incoming call</string>
+    <string name="0_resource_name_obfuscated_7f110043">Can't connect to wireless debugging service.</string>
+    <string name="0_resource_name_obfuscated_7f110044">Characters entered %1$d of %2$d</string>
+    <string name="0_resource_name_obfuscated_7f110045">Character limit exceeded %1$d of %2$d</string>
+    <string name="0_resource_name_obfuscated_7f110046">%1$d/%2$d</string>
+    <string name="0_resource_name_obfuscated_7f110047">Clear text</string>
+    <string name="0_resource_name_obfuscated_7f110048">Copy</string>
+    <string name="0_resource_name_obfuscated_7f110049">Link copied to clipboard</string>
+    <string name="0_resource_name_obfuscated_7f11004a">Theme</string>
+    <string name="0_resource_name_obfuscated_7f11004e">Light Mode</string>
+    <string name="0_resource_name_obfuscated_7f11004f">Dark Mode</string>
+    <string name="0_resource_name_obfuscated_7f110050">Developer options</string>
+    <string name="0_resource_name_obfuscated_7f110051">Searching for wireless debugging service</string>
+    <string name="0_resource_name_obfuscated_7f110052">Please enable "Wireless debugging" in "Developer options". "Wireless debugging" is automatically disabled when network changes.
 
-    <!-- To translators: you can leave your here -->
-    <string name="translation_contributors" />
+Note, do not disable "Developer options" or "USB debugging", or Shizuku will be stopped.</string>
+    <string name="0_resource_name_obfuscated_7f110053">Please try to disable and enable "Wireless debugging" if it keeps searching.</string>
+    <string name="0_resource_name_obfuscated_7f110054">Port is an integer ranging from 1 to 65535.</string>
+    <string name="0_resource_name_obfuscated_7f110055">Searching for pairing service</string>
+    <string name="0_resource_name_obfuscated_7f110056">Please start paring by the following steps: "Developer Options" - "Wireless debugging" - "Pairing device using pairing code".
 
-    <!-- Home - Status -->
-    <string name="home_status_service_is_running">%1$s is running</string>
-    <string name="home_status_service_not_running">%1$s is not running</string>
-    <string name="home_status_service_version">Version %2$s, %1$s</string>
-    <string name="home_status_service_version_update"><![CDATA[Version %2$s, %1$s<br>Start again to update to version %3$s]]></string>
+After the pairing process starts, you will able to input the pairing code.</string>
+    <string name="0_resource_name_obfuscated_7f110057">Pairing code</string>
+    <string name="0_resource_name_obfuscated_7f110058">Pair with device</string>
+    <string name="0_resource_name_obfuscated_7f110059">Port</string>
+    <string name="0_resource_name_obfuscated_7f11005a">Can't start browser</string>
+    <string name="0_resource_name_obfuscated_7f11005b">Legacy Shizuku has been deprecated since March 2019. Also, legacy Shizuku does not work on newer Android systems.&lt;p&gt;Please ask the developer of &lt;b&gt;%1$s&lt;/b&gt; to update.</string>
+    <string name="0_resource_name_obfuscated_7f11005c">%1$s does not support modern Shizuku</string>
+    <string name="0_resource_name_obfuscated_7f11005d">Open Shizuku</string>
+    <string name="0_resource_name_obfuscated_7f11005e">&lt;b&gt;%1$s&lt;/b&gt; has modern Shizuku support, but it's requesting legacy Shizuku. This could because Shizuku is not running, please check in Shizuku app.&lt;p&gt;Legacy Shizuku has been deprecated since March 2019.</string>
+    <string name="0_resource_name_obfuscated_7f11005f">%1$s is requesting legacy Shizuku</string>
+    <string name="0_resource_name_obfuscated_7f110060">Shizuku service will be stopped.</string>
+    <string name="0_resource_name_obfuscated_7f110061">USB debugging is not enabled.
+Please enable it in "Developer Options".</string>
+    <string name="0_resource_name_obfuscated_7f110062">Wireless debugging is not enabled.
+Note, before Android 11, to enable wireless debugging, computer connection is a must.</string>
+    <string name="0_resource_name_obfuscated_7f110063">Error: invalid</string>
+    <string name="0_resource_name_obfuscated_7f110064">Error</string>
+    <string name="0_resource_name_obfuscated_7f110065">Advanced</string>
+    <string name="0_resource_name_obfuscated_7f110066">Show dropdown menu</string>
+    <string name="0_resource_name_obfuscated_7f110067">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="0_resource_name_obfuscated_7f110068">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="0_resource_name_obfuscated_7f110069">Copy link</string>
+    <string name="0_resource_name_obfuscated_7f11006a">Open in browser</string>
+    <string name="0_resource_name_obfuscated_7f11006b">Share link</string>
+    <string name="0_resource_name_obfuscated_7f11006c">Follow System</string>
+    <string name="0_resource_name_obfuscated_7f11006d">Allow</string>
+    <string name="0_resource_name_obfuscated_7f11006e">Deny</string>
+    <string name="0_resource_name_obfuscated_7f11006f">https://github.com/thedjchi/Shizuku/wiki</string>
+    <string name="0_resource_name_obfuscated_7f110071">View Command</string>
+    <string name="0_resource_name_obfuscated_7f110072">Read help</string>
+    <string name="0_resource_name_obfuscated_7f110073">On Android 10 Or Earlier, You Need To Use Adb to Start Shizuku. This Requires To Connect To Another Device With OTG Cable To Run Adb Commands.</string>
+    <string name="0_resource_name_obfuscated_7f110074">Send</string>
+    <string name="0_resource_name_obfuscated_7f110075">Copy</string>
+    <string name="0_resource_name_obfuscated_7f110076">&lt;font face=monospace&gt;%1$s&lt;/font&gt;&lt;br&gt;&lt;br&gt;* There are some other considerations, please confirm that you have read the help first.</string>
+    <string name="0_resource_name_obfuscated_7f110077">Your device manufacturer has restricted adb permissions and apps using Shizuku will not work properly.
 
-    <!-- Home - Adb -->
-    <string name="home_adb_title"><![CDATA[Start by connecting to a computer]]></string>
-    <string name="home_adb_description"><![CDATA[For devices without root, you need to use adb to start Shizuku (requires computer connection). This process needs to be repeated every time the device is restarted. Please <b><a href=\"%1$s\">read the help</a></b>.]]></string>
-    <string name="home_adb_button_view_help">Read help</string>
-    <string name="home_adb_button_view_command">View command</string>
-    <string name="home_adb_dialog_view_command_message"><![CDATA[<font face="monospace">%1$s</font><br><br>* There are some other considerations, please confirm that you have read the help first.]]></string>
-    <string name="home_adb_dialog_view_command_copy_button">Copy</string>
-    <string name="home_adb_dialog_view_command_button_send">Send</string>
+Usually, this limitation can be lifted by adjusting some options in "Developer options". Please read the help for details on how to do this.
 
-    <!-- Home - Wireless Adb -->
-    <string name="home_wireless_adb_title"><![CDATA[Start via Wireless debugging]]></string>
-    <string name="home_wireless_adb_description"><![CDATA[On Android 11 or above, you can enable Wireless debugging and start Shizuku directly from your device, without connecting to a computer.<p>Please view the step-by-step guide first.]]></string>
-    <string name="home_wireless_adb_description_pre_11"><![CDATA[Before Android 11, connecting to a computer is required to enable Wireless debugging.]]></string>
-    <string name="home_wireless_adb_view_guide_button">Step-by-step guide</string>
+You may need to restart Shizuku for the operation to take effect.</string>
+    <string name="0_resource_name_obfuscated_7f110078">You need to take an extra step</string>
+    <string name="0_resource_name_obfuscated_7f110079">Start Through OTG</string>
+    <string name="0_resource_name_obfuscated_7f11007a">Apps that has requested or declared Shizuku will show here.</string>
+    <string name="0_resource_name_obfuscated_7f11007b">Application Management</string>
+    <string name="0_resource_name_obfuscated_7f11007c">Tap To Manage Authorized Apps</string>
+    <string name="0_resource_name_obfuscated_7f11007d">Learn How to Develop With Shizuku</string>
+    <string name="0_resource_name_obfuscated_7f11007e">Contribution Guide</string>
+    <string name="0_resource_name_obfuscated_7f11007f">Restart</string>
+    <string name="0_resource_name_obfuscated_7f110080">Start</string>
+    <string name="0_resource_name_obfuscated_7f110081">If You have Root Access on your Phone, You Can Start Shizuku Directly Without Additional Steps</string>
+    <string name="0_resource_name_obfuscated_7f110082">If Your Using Magisk, You can try %1$s. it Will Eventually Replace Shizuku.</string>
+    <string name="0_resource_name_obfuscated_7f110083">Start (Root Access)</string>
+    <string name="0_resource_name_obfuscated_7f110084">%1$s Is Running</string>
+    <string name="0_resource_name_obfuscated_7f110085">Waiting For Activation</string>
+    <string name="0_resource_name_obfuscated_7f110086">Version %2$s, %1$s</string>
+    <string name="0_resource_name_obfuscated_7f110087">Version %2$s, %1$s&lt;br&gt;Start again to update to version %3$s</string>
+    <string name="0_resource_name_obfuscated_7f110088">Run Adb Commands Through Shizuku in Terminal Apps.</string>
+    <string name="0_resource_name_obfuscated_7f110089">Use Shizuku In Terminal</string>
+    <string name="0_resource_name_obfuscated_7f11008a">On Android 11 Or Above, You can Enable Wireless Debugging And Start Shizuku Directly From Your Device.</string>
+    <string name="0_resource_name_obfuscated_7f11008b">Before Android 11, connecting to a computer is required to enable Wireless debugging.</string>
+    <string name="0_resource_name_obfuscated_7f11008c">Wireless Debugging</string>
+    <string name="0_resource_name_obfuscated_7f11008d">Instructions</string>
+    <string name="0_resource_name_obfuscated_7f11008e">Dialog Icon</string>
+    <string name="0_resource_name_obfuscated_7f11008f">Tab</string>
+    <string name="0_resource_name_obfuscated_7f110092">sans-serif</string>
+    <string name="0_resource_name_obfuscated_7f110093">sans-serif-medium</string>
+    <string name="0_resource_name_obfuscated_7f110094">sans-serif</string>
+    <string name="0_resource_name_obfuscated_7f110095">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="0_resource_name_obfuscated_7f110098">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="0_resource_name_obfuscated_7f11009a">cubic-bezier(0.4, 0, 1, 1)</string>
+    <string name="0_resource_name_obfuscated_7f11009b">cubic-bezier(0, 0, 0.2, 1)</string>
+    <string name="0_resource_name_obfuscated_7f11009c">cubic-bezier(0, 0, 1, 1)</string>
+    <string name="0_resource_name_obfuscated_7f11009d">cubic-bezier(0.2, 0, 0, 1)</string>
+    <string name="0_resource_name_obfuscated_7f1100a0">androidx.recyclerview.widget.LinearLayoutManager</string>
+    <string name="0_resource_name_obfuscated_7f1100a1">:</string>
+    <string name="0_resource_name_obfuscated_7f1100a2">Select AM or PM</string>
+    <string name="0_resource_name_obfuscated_7f1100a8">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="0_resource_name_obfuscated_7f1100a9">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="0_resource_name_obfuscated_7f1100aa">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="0_resource_name_obfuscated_7f1100ab">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="0_resource_name_obfuscated_7f1100ac">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="0_resource_name_obfuscated_7f1100b0">AM</string>
+    <string name="0_resource_name_obfuscated_7f1100b4">PM</string>
+    <string name="0_resource_name_obfuscated_7f1100b8">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
+    <string name="0_resource_name_obfuscated_7f1100b9">icon</string>
+    <string name="0_resource_name_obfuscated_7f1100ba">M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
+    <string name="0_resource_name_obfuscated_7f1100bb">icon path</string>
+    <string name="0_resource_name_obfuscated_7f1100bc">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
+    <string name="0_resource_name_obfuscated_7f1100bd">button</string>
+    <string name="0_resource_name_obfuscated_7f1100be">button path</string>
+    <string name="0_resource_name_obfuscated_7f1100bf">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
+    <string name="0_resource_name_obfuscated_7f1100c0">Checked</string>
+    <string name="0_resource_name_obfuscated_7f1100c1">Partially checked</string>
+    <string name="0_resource_name_obfuscated_7f1100c2">Not checked</string>
+    <string name="0_resource_name_obfuscated_7f1100c3">Remove %1$s</string>
+    <string name="0_resource_name_obfuscated_7f1100c6">Change to next month</string>
+    <string name="0_resource_name_obfuscated_7f1100c7">Change to previous month</string>
+    <string name="0_resource_name_obfuscated_7f1100cb">Cancel</string>
+    <string name="0_resource_name_obfuscated_7f1100cc">OK</string>
+    <string name="0_resource_name_obfuscated_7f1100d0">%1$s</string>
+    <string name="0_resource_name_obfuscated_7f1100d6">Navigate to current year %1$d</string>
+    <string name="0_resource_name_obfuscated_7f1100d7">Navigate to year %1$d</string>
+    <string name="0_resource_name_obfuscated_7f1100de">Save</string>
+    <string name="0_resource_name_obfuscated_7f1100e7">Switch to calendar input mode</string>
+    <string name="0_resource_name_obfuscated_7f1100e8">Tap to switch to Calendar view</string>
+    <string name="0_resource_name_obfuscated_7f1100e9">Switch to text input mode</string>
+    <string name="0_resource_name_obfuscated_7f1100ea">Tap to switch to year view</string>
+    <string name="0_resource_name_obfuscated_7f1100eb">circle_group</string>
+    <string name="0_resource_name_obfuscated_7f1100ec">M4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16</string>
+    <string name="0_resource_name_obfuscated_7f1100ed">M0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16</string>
+    <string name="0_resource_name_obfuscated_7f1100ee">circle</string>
+    <string name="0_resource_name_obfuscated_7f1100ef">M2,16 A14,14 0 0,1 16,2 H16 A14,14 0 0,1 16,30 H16 A14,14 0 0,1 2,16</string>
+    <string name="0_resource_name_obfuscated_7f1100f0">M8,16 A8,8 0 0,1 16,8 H16 A8,8 0 0,1 16,24 H16 A8,8 0 0,1 8,16</string>
+    <string name="0_resource_name_obfuscated_7f1100f1">M1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16</string>
+    <string name="0_resource_name_obfuscated_7f1100f2">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
+    <string name="0_resource_name_obfuscated_7f1100f5">Not set</string>
+    <string name="0_resource_name_obfuscated_7f1100f6">Pairing failed</string>
+    <string name="0_resource_name_obfuscated_7f1100f7">Enter pairing code</string>
+    <string name="0_resource_name_obfuscated_7f1100f8">Retry</string>
+    <string name="0_resource_name_obfuscated_7f1100f9">Searching for pairing service</string>
+    <string name="0_resource_name_obfuscated_7f1100fa">Pairing service found</string>
+    <string name="0_resource_name_obfuscated_7f1100fb">Stop searching</string>
+    <string name="0_resource_name_obfuscated_7f1100fc">You can start Shizuku service now.</string>
+    <string name="0_resource_name_obfuscated_7f1100fd">Pairing successful</string>
+    <string name="0_resource_name_obfuscated_7f1100fe">Pairing in progress</string>
+    <string name="0_resource_name_obfuscated_7f1100ff">Wireless debugging pairing</string>
+    <string name="0_resource_name_obfuscated_7f110100">Service start status</string>
+    <string name="0_resource_name_obfuscated_7f110101">Start Shizuku service failed.</string>
+    <string name="0_resource_name_obfuscated_7f110102">Failed to request root permission.</string>
+    <string name="0_resource_name_obfuscated_7f110103">Shizuku service is starting…</string>
+    <string name="0_resource_name_obfuscated_7f110104">Notification options</string>
+    <string name="0_resource_name_obfuscated_7f110105">Working…</string>
+    <string name="0_resource_name_obfuscated_7f110106">Pairing code is wrong.</string>
+    <string name="0_resource_name_obfuscated_7f110107">Show password</string>
+    <string name="0_resource_name_obfuscated_7f110108">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="0_resource_name_obfuscated_7f110109">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="0_resource_name_obfuscated_7f11010a">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="0_resource_name_obfuscated_7f11010b">M3.27,4.27 L19.74,20.74</string>
+    <string name="0_resource_name_obfuscated_7f11010c">Allow The App To Use Shizuku.</string>
+    <string name="0_resource_name_obfuscated_7f11010d">@string/0_resource_name_obfuscated_7f11010f</string>
+    <string name="0_resource_name_obfuscated_7f11010e">Shizuku</string>
+    <string name="0_resource_name_obfuscated_7f11010f">access Shizuku</string>
+    <string name="0_resource_name_obfuscated_7f110110">Allow &lt;b&gt;%1$s&lt;/b&gt; To %2$s ?</string>
+    <string name="0_resource_name_obfuscated_7f110111">"%1$s" copied to clipboard.</string>
+    <string name="0_resource_name_obfuscated_7f110112">With %1$s, in any terminal app, you can connect to and interact with the shell runs by Shizuku. &lt;p&gt;About the detailed usage %1$s, tap to view the document.</string>
+    <string name="0_resource_name_obfuscated_7f110117">Advanced</string>
+    <string name="0_resource_name_obfuscated_7f110118">Behavior</string>
+    <string name="0_resource_name_obfuscated_7f110119">Amoled Dark</string>
+    <string name="0_resource_name_obfuscated_7f11011a">Use the Amoled Dark If Dark Mode is Enabled</string>
+    <string name="0_resource_name_obfuscated_7f11011b">Help</string>
+    <string name="0_resource_name_obfuscated_7f11011c">Language</string>
+    <string name="0_resource_name_obfuscated_7f11011d">Legacy Pairing</string>
+    <string name="0_resource_name_obfuscated_7f11011e">Enter The Pairing Code In Dialog Instead Of Notification.</string>
+    <string name="0_resource_name_obfuscated_7f11011f">Bug Report</string>
+    <string name="0_resource_name_obfuscated_7f110120">Start On Boot</string>
+    <string name="0_resource_name_obfuscated_7f110121">Requires Android 11+ or root</string>
+    <string name="0_resource_name_obfuscated_7f110122">Support</string>
+    <string name="0_resource_name_obfuscated_7f110123">Learn More About Using Automation Apps To Control Shizuku</string>
+    <string name="0_resource_name_obfuscated_7f110124">TCP Mode</string>
+    <string name="0_resource_name_obfuscated_7f110125">Allows Shizuku To Restart Without Wi-Fi. (Shizuku Must Have Started Once Since Reboot)</string>
+    <string name="0_resource_name_obfuscated_7f110126">TCP Port</string>
+    <string name="0_resource_name_obfuscated_7f110127">Default (5555)</string>
+    <string name="0_resource_name_obfuscated_7f110128">Leave blank to use default (5555)</string>
+    <string name="0_resource_name_obfuscated_7f110129">Settings</string>
+    <string name="0_resource_name_obfuscated_7f11012a">Translation</string>
+    <string name="0_resource_name_obfuscated_7f11012b">Translation contributors</string>
+    <string name="0_resource_name_obfuscated_7f11012c">Help Us Translate %s Into Your Language</string>
+    <string name="0_resource_name_obfuscated_7f11012d">Dynamic Color</string>
+    <string name="0_resource_name_obfuscated_7f11012e">Appearance</string>
+    <string name="0_resource_name_obfuscated_7f11012f">Shizuku Service</string>
+    <string name="0_resource_name_obfuscated_7f110130">Automatically Restart Shizuku If It Stops</string>
+    <string name="0_resource_name_obfuscated_7f110131">Side Sheet</string>
+    <string name="0_resource_name_obfuscated_7f110133">Fix</string>
+    <string name="0_resource_name_obfuscated_7f110134">OK</string>
+    <string name="0_resource_name_obfuscated_7f110135">Battery Optimization Must Be Disabled For Start On Boot/Shizuku Service t
+To Work Properly.</string>
+    <string name="0_resource_name_obfuscated_7f110136">Please disable battery optimization to use this feature.</string>
+    <string name="0_resource_name_obfuscated_7f110137">Port must be between 1 and 65535</string>
+    <string name="0_resource_name_obfuscated_7f110138">Can't start service because root permission is not granted or this device is not rooted.</string>
+    <string name="0_resource_name_obfuscated_7f110139">Starter</string>
+    <string name="0_resource_name_obfuscated_7f11013a">Starting root shell…</string>
+    <string name="0_resource_name_obfuscated_7f11013b">999+</string>
+    <string name="0_resource_name_obfuscated_7f11013c">%1$s, %2$s</string>
+    <string name="0_resource_name_obfuscated_7f11013d">shizukuforkdev@fire.fundersclub.com</string>
+    <string name="0_resource_name_obfuscated_7f11013e">Export files</string>
+    <string name="0_resource_name_obfuscated_7f11013f">First, Export files to any where you want. You will find two files, %1$s and %2$s.</string>
+    <string name="0_resource_name_obfuscated_7f110140">If there are files with the same name in the selected folder, they will be deleted.
 
-    <!-- Adb -->
-    <string name="dialog_adb_discovery">Searching for wireless debugging service</string>
-    <string name="dialog_adb_discovery_message">Please enable \"Wireless debugging\" in \"Developer options\". \"Wireless debugging\" is automatically disabled when network changes.\n\nNote, do not disable \"Developer options\" or \"USB debugging\", or Shizuku will be stopped.</string>
-    <string name="dialog_adb_discovery_message_toggle_wireless_debugging">Please try to disable and enable \"Wireless debugging\" if it keeps searching.</string>
-    <string name="dialog_adb_port">Port</string>
-    <string name="dialog_adb_invalid_port">Port is an integer ranging from 1 to 65535.</string>
-    <string name="adb_pairing">Pairing</string>
-    <string name="dialog_adb_pairing_title">Pair with device</string>
-    <string name="dialog_adb_pairing_discovery">Searching for pairing service</string>
-    <string name="dialog_adb_pairing_paring_code">Pairing code</string>
-    <string name="paring_code_is_wrong">Pairing code is wrong.</string>
-    <string name="cannot_connect_port">Can\'t connect to wireless debugging service.</string>
-    <string name="dialog_wireless_adb_not_enabled">Wireless debugging is not enabled.\nNote, before Android 11, to enable wireless debugging, computer connection is a must.</string>
-    <string name="dialog_usb_debugging_not_enabled">USB debugging is not enabled.\nPlease enable it in \"Developer Options\".</string>
-    <string name="dialog_adb_pairing_message">Please start pairing by performing the following steps: \"Developer Options\" - \"Wireless debugging\" - \"Pair device with pairing code.\"\n\nAfter the pairing process starts, you will able to input the pairing code.</string>
-    <string name="dialog_adb_pairing_accessibility_enable">Please enable the accessibility service to start the pairing process. This allows Shizuku to detect the pairing code.\n\nThe accessibility service will be turned off when the code is found or after 1 minute to save energy.</string>
-    <string name="dialog_adb_pairing_accessibility_navigate">Please navigate to \"Developer Options\" > \"Wireless debugging\" > \"Pair device with pairing code.\" Shizuku will automatically detect the pairing code.</string>
-    <string name="adb_pairing_requires_multi_window">Please enter split-screen (multi-window) mode first.</string>
-    <string name="adb_pairing_requires_multi_window_reason">The system requires the pairing dialog always visible, using split-screen mode is the only way to let this app and system dialog visible at the same time.</string>
-    <string name="adb_error_key_store">Unable to generate key for wireless debugging.\nThis may be because KeyStore mechanism of this device is broken.</string>
-    <string name="adb_error_stop_tcp">Failed to stop ADB over TCP</string>
-    <string name="adb_pair_required">Please go through the pairing step first.</string>
-    <string name="enable">Enable</string>
-    <string name="development_settings">Developer options</string>
-    <string name="notification_settings">Notification options</string>
-    <string name="adb_pairing_tutorial_title">Pair Shizuku with your device</string>
-    <string name="adb_pairing_tutorial_content_notification">A notification from Shizuku will help you complete the pairing.</string>
-    <string name="adb_pairing_tutorial_content_steps">Enter \"Developer options\" - \"Wireless debugging\". Tap \"Pair device with pairing code\", you will see a six-digit code.</string>
-    <string name="adb_pairing_tutorial_content_enter_pairing_code">Enter the code in the notification to complete pairing.</string>
-    <string name="adb_pairing_tutorial_content_notification_blocked">The pairing process needs you to interact with a notification from Shizuku. Please allow Shizuku to post notifications.</string>
-    <string name="adb_pairing_tutorial_content_miui">MIUI users may need to switch notification style to \"Android\" from \"Notification\" - \"Notification shade\" in system settings.</string>
-    <string name="adb_pairing_tutorial_content_miui_2">Otherwise, you may not able to enter paring code from the notification.</string>
-    <string name="adb_pairing_tutorial_content_left_is_clickable">Please note, left part of the \"Wireless debugging\" option is clickable, tapping it will open a new page. Only turing on the switch on the right is incorrect.</string>
-    <string name="adb_pairing_tutorial_content_finish">Back to Shizuku and start Shizuku.</string>
-    <string name="adb_pairing_tutorial_content_network">Shizuku needs to access local network. It is controlled by the network permission.</string>
-    <string name="adb_pairing_tutorial_content_network_limation_not_foreground">Some systems (such as MIUI) disallow apps to access the network when they are not visible, even if the app uses foreground service as standard. Please disable battery optimization features for Shizuku on such systems.</string>
-
-    <!-- Home - Root -->
-    <string name="home_root_title"><![CDATA[Start (for rooted devices)]]></string>
-    <string name="home_root_description"><![CDATA[In addition, Shizuku can be started automatically on boot. If not, please check if your system or third-party tools have restricted Shizuku.<br>You can refer to %s.]]></string>
-    <string name="home_root_description_sui"><![CDATA[If you are using Magisk, you can try %1$s. For root users, it will eventually replace Shizuku. Note, existing applications needs to change a little to use %2$s.]]></string>
-    <string name="home_root_button_start">Start</string>
-    <string name="home_root_button_restart">Restart</string>
-
-    <!-- Home - Application management -->
-    <string name="home_app_management_title">Application management</string>
-    <plurals name="home_app_management_authorized_apps_count">
-        <item quantity="one"><![CDATA[Authorized %d application]]></item>
-        <item quantity="other"><![CDATA[Authorized %d applications]]></item>
-    </plurals>
-    <string name="home_app_management_view_authorized_apps"><![CDATA[Tap to manage authorized apps]]></string>
-    <string name="home_app_management_empty">Apps that have requested or declared the Shizuku permission will show here.</string>
-
-    <!-- Home - Learn more -->
-    <string name="home_learn_more_title">Learn Shizuku</string>
-    <string name="home_learn_more_description">Learn how to develop with Shizuku</string>
-
-    <!-- Home - Adb permissions limited -->
-    <string name="home_adb_is_limited_title">You need to take an extra step</string>
-    <string name="home_adb_is_limited_description">Your device manufacturer has restricted adb permissions and apps using Shizuku will not work properly.\n\nUsually, this limitation can be lifted by adjusting some options in \"Developer options\". Please read the help for details on how to do this.\n\nYou may need to restart Shizuku for the operation to take effect.</string>
-
-    <!-- Application management -->
-    <string name="app_management_dialog_adb_is_limited_title">The permission of adb is limited</string>
-    <string name="app_management_dialog_adb_is_limited_message"><![CDATA[It\'s highly possible that your device manufacturer limits the permission of adb.<p>There may be a solution for your system in <b><a href=\"%1$s\">this document</a></b>.]]></string>
-    <string name="app_management_item_summary_requires_root">* requires Shizuku runs with root</string>
-    <string name="app_management_toggle_all">Toggle all</string>
-
-    <!-- Terminal -->
-    <string name="home_terminal_title">Use Shizuku in terminal apps</string>
-    <string name="home_terminal_description">Run commands through Shizuku in terminal apps you like</string>
-    <string name="terminal_tutorial_1">First, Export files to any where you want. You will find two files, %1$s and %2$s.</string>
-    <string name="terminal_tutorial_1_description">If there are files with the same name in the selected folder, they will be deleted.\n\nThe export function uses SAF (Storage Access Framework). It\'s reported that MIUI breaks the functions of SAF. If you are using MIUI, you may have to extract the file from Shizuku\'s apk or download from GitHub.</string>
-    <string name="terminal_export_files">Export files</string>
-    <string name="terminal_tutorial_2">Then, use any text editor to open and edit %1$s.</string>
-    <string name="terminal_tutorial_2_description">For example, if you want to use Shizuku in %1$s, you should replace %2$s with %3$s (%4$s is the package name of %1$s).</string>
-    <string name="terminal_tutorial_3">Finally, move the files to somewhere where your terminal app can access, you will be able to use %1$s to run commands through Shizuku.</string>
-    <string name="terminal_tutorial_3_description">Some tips: grant execute permission to %1$s and add it to %2$s, you will able to use %1$s directly.</string>
-    <string name="rish_description"><![CDATA[
-With %1$s, in any terminal app, you can connect to and interact with the shell runs by Shizuku.
-<p>About the detailed usage %1$s, tap to view the document.
-    ]]></string>
-
-    <!-- Settings -->
-    <string name="settings_title">Settings</string>
-    <string name="settings_behavior">Behavior</string>
-    <string name="settings_start_on_boot">Start on boot</string>
-    <string name="settings_start_on_boot_summary">Requires Android 11+ or root</string>
-    <string name="settings_use_system_color">Use system theme color</string>
-    <string name="settings_watchdog">Watchdog</string>
-    <string name="settings_watchdog_summary">Automatically restart Shizuku if it stops</string>
-    <string name="settings_tcp_mode">TCP mode</string>
-    <string name="settings_tcp_mode_summary">"Allows Shizuku to restart without Wi-Fi. (Shizuku must have started once since reboot)"</string>
-    <string name="settings_tcp_mode_dialog_title">Restart Required</string>
-    <string name="settings_tcp_mode_dialog_message"><![CDATA[Shizuku needs to restart in order to apply this setting.<br><br><b>Shizuku will continue running and wait for a Wi-Fi connection before restarting.</b>]]></string>
-    <string name="settings_tcp_port">TCP port</string>
-    <string name="settings_tcp_port_deafult">Default (5555)</string>
-    <string name="settings_tcp_port_hint">Leave blank to use default (5555)</string>
-    <string name="settings_tcp_learn_more">Learn more about using automation apps to control Shizuku</string>
-    <string name="settings_language">Language</string>
-    <string name="settings_translation_contributors">Translation contributors</string>
-    <string name="settings_translation">Participate in translation</string>
-    <string name="settings_translation_summary">Help us translate %s into your language</string>
-    <string name="settings_user_interface">Appearance</string>
-    <string name="settings_black_night_theme">Black night theme</string>
-    <string name="settings_black_night_theme_summary">Use the pure black theme if night mode is enabled</string>
-    <string name="settings_support">Support</string>
-    <string name="settings_help">Help</string>
-    <string name="settings_report_bug">Report a bug</string>
-    <string name="settings_advanced">Advanced</string>
-    <string name="settings_legacy_pairing">Legacy pairing</string>
-    <string name="settings_legacy_pairing_summary">Enter the pairing code in a dialog instead of a notification</string>
-
-    <!-- Snackbar -->
-    <string name="snackbar_invalid_port">Port must be between 1 and 65535</string>
-    <string name="snackbar_battery_optimization_home">Battery optimization must be disabled for start on boot/watchdog to work properly.</string>
-    <string name="snackbar_battery_optimization_settings">Please disable battery optimization to use this feature.</string>
-    <string name="snackbar_action_fix">Fix</string>
-
-    <!-- Toast -->
-    <string name="toast_no_email_app">No email app found</string>
-    <string name="toast_shizuku_already_starting">Shizuku is already starting in the background</string>
-
-    <!-- Dark Mode Setting Override -->
-    <string name="dark_theme">Theme</string>
-    <string name="dark_theme_off">Always light</string>
-    <string name="dark_theme_on">Always dark</string>
-
-    <!-- About -->
-    <string name="action_about">About</string>
-    <string name="about_dialog_button_close">Close</string>
-    <string name="about_view_source_code"><![CDATA[View source code at %s]]></string>
-
-    <!-- Stop -->
-    <string name="action_stop">Stop Shizuku</string>
-    <string name="dialog_stop_message">Shizuku service will be stopped.</string>
-
-    <!-- Notification -->
-    <string name="notification_channel_service_status">Service start status</string>
-    <string name="notification_service_starting">Shizuku service is starting…</string>
-    <string name="notification_service_start_failed">Start Shizuku service failed.</string>
-    <string name="notification_service_start_no_root">Failed to request root permission.</string>
-    <string name="notification_working">Working…</string>
-    <string name="notification_channel_adb_pairing">Wireless debugging pairing</string>
-    <string name="notification_adb_pairing_input_paring_code">Enter pairing code</string>
-    <string name="notification_adb_pairing_searching_for_service_title">Searching for pairing service</string>
-    <string name="notification_adb_pairing_service_found_title">Pairing service found</string>
-    <string name="notification_adb_pairing_stop_searching">Stop searching</string>
-    <string name="notification_adb_pairing_working_title">Pairing in progress</string>
-    <string name="notification_adb_pairing_succeed_title">Pairing successful</string>
-    <string name="notification_adb_pairing_succeed_text">You can start Shizuku service now.</string>
-    <string name="notification_adb_pairing_failed_title">Pairing failed</string>
-    <string name="notification_adb_pairing_retry">Retry</string>
-
-    <!-- Permission related, appears in system permission UI -->
-    <string name="permission_group_label" translatable="false">Shizuku</string>
-    <string name="permission_group_description" translatable="false">@string/permission_label</string>
-    <string name="permission_label">access Shizuku</string>
-    <string name="permission_description">Allow the app to use Shizuku.</string>
-    <string name="permission_warning_template"><![CDATA[Allow <b>%1$s</b> to %2$s?]]></string>
-    <string name="grant_dialog_button_allow_always">Allow all the time</string>
-    <string name="grant_dialog_button_deny">"Deny"</string>
-
-    <!-- Starter -->
-    <string name="starter">Starter</string>
-    <string name="starting_root_shell" translatable="false">Starting root shell…</string>
-    <string name="start_with_root_failed">Can\'t start service because root permission is not granted or this device is not rooted.</string>
-
-    <!-- WADB Starter -->
-    <string name="wadb_notification_title">Starting Shizuku…</string>
-    <string name="wadb_notification_wifi_required">Awaiting Wi-Fi connection before proceeding</string>
-    <string name="wadb_notification_wifi_found">Wi-Fi found. Proceeding</string>
-    <string name="wadb_error_title">Error while starting on boot</string>
-    <string name="wadb_error_notify_dev">Tap to notify the developer.</string>
-    <string name="wadb_error_send_email">Send an email to</string>
-    <string name="wadb_permission_error_notification_title">Permission Error</string>
-    <string name="wadb_permission_error_notification_content">Shizuku needs WRITE_SECURE_SETTINGS to start on boot. Tap to learn how to grant it.</string>
-    <string name="wadb_notification_channel">ADB auto-start service</string>
-
-    <!-- Watchdog -->
-    <string name="watchdog_running">Watchdog is running</string>
-    <string name="watchdog_shizuku_crashed_title">Shizuku crashed recently</string>
-    <string name="watchdog_shizuku_crashed_text">Watchdog restarted the service. Tap to learn about potential fixes to prevent future crashes.</string>
-    <string name="watchdog_shizuku_crashed_action_turn_off_alerts">Turn Off Alerts</string>
-
-    <!-- Misc -->
-    <string name="dialog_cannot_open_browser_title">Can\'t start browser</string>
-    <string name="toast_copied_to_clipboard">%s\nhas been copied to clipboard.</string>
-    <string name="toast_copied_to_clipboard_with_text"><![CDATA[<b>%s</b> has been copied to clipboard.]]></string>
-    <string name="accessibility_service_description">Provides pairing support for devices (e.g., TVs running Android 14+) where notifications or split screen cannot be used.\n\nEnables Shizuku to extract the pairing code from the wireless debugging pairing screen. It will disable itself once the pairing code is found.</string>
-
-    <!-- Messages for legacy -->
-    <string name="dialog_legacy_not_support_title">%1$s does not support modern Shizuku</string>
-    <string name="dialog_legacy_not_support_message"><![CDATA[Legacy Shizuku has been deprecated since March 2019. Also, legacy Shizuku does not work on newer Android systems.<p>Please ask the developer of <b>%1$s</b> to update.]]></string>
-    <string name="dialog_requesting_legacy_title">%1$s is requesting legacy Shizuku</string>
-    <string name="dialog_requesting_legacy_message"><![CDATA[<b>%1$s</b> has modern Shizuku support, but it\'s requesting legacy Shizuku. This could because Shizuku is not running, please check in Shizuku app.<p>Legacy Shizuku has been deprecated since March 2019.]]></string>
-    <string name="dialog_requesting_legacy_button_open_shizuku">Open Shizuku</string>
-    <string name="wadb_notification_attempt_now">Attempt now</string>
-
+The export function uses SAF (Storage Access Framework). It's reported that MIUI breaks the functions of SAF. If you are using MIUI, you may have to extract the file from Shizuku's apk or download from GitHub.</string>
+    <string name="0_resource_name_obfuscated_7f110141">Then, use any text editor to open and edit %1$s.</string>
+    <string name="0_resource_name_obfuscated_7f110142">For example, if you want to use Shizuku in %1$s, you should replace %2$s with %3$s (%4$s is the package name of %1$s).</string>
+    <string name="0_resource_name_obfuscated_7f110143">Finally, move the files to somewhere where your terminal app can access, you will be able to use %1$s to run commands through Shizuku.</string>
+    <string name="0_resource_name_obfuscated_7f110144">Some tips: grant execute permission to %1$s and add it to %2$s, you will able to use %1$s directly.</string>
+    <string name="0_resource_name_obfuscated_7f110145">%s
+has been copied to clipboard.</string>
+    <string name="0_resource_name_obfuscated_7f110146">&lt;b&gt;%s&lt;/b&gt; has been copied to clipboard.</string>
+    <string name="0_resource_name_obfuscated_7f110147">Failed to stop Shizuku</string>
+    <string name="0_resource_name_obfuscated_7f110148">No email app found</string>
+    <string name="0_resource_name_obfuscated_7f110149"></string>
+    <string name="0_resource_name_obfuscated_7f11014a">https://rikka.app/contribute_translation/</string>
+    <string name="0_resource_name_obfuscated_7f11014b">OFF</string>
+    <string name="0_resource_name_obfuscated_7f11014c">ON</string>
+    <string name="0_resource_name_obfuscated_7f11014d">Tap to notify the developer.</string>
+    <string name="0_resource_name_obfuscated_7f11014e">Send an email to</string>
+    <string name="0_resource_name_obfuscated_7f11014f">Error while starting on boot</string>
+    <string name="0_resource_name_obfuscated_7f110150">Attempt now</string>
+    <string name="0_resource_name_obfuscated_7f110152">Starting Shizuku…</string>
+    <string name="0_resource_name_obfuscated_7f110153">Wi-Fi found. Proceeding</string>
+    <string name="0_resource_name_obfuscated_7f110154">Awaiting Wi-Fi connection before proceeding</string>
+    <string name="0_resource_name_obfuscated_7f110155">Shizuku needs WRITE_SECURE_SETTINGS to start on boot. Tap to learn how to grant it.</string>
+    <string name="0_resource_name_obfuscated_7f110156">Permission Error</string>
+    <string name="0_resource_name_obfuscated_7f110157">Shizuku Service Is Running</string>
+    <string name="0_resource_name_obfuscated_7f110158">Turn Off Alerts</string>
+    <string name="0_resource_name_obfuscated_7f110159">Shizuku Service Restarted, Tap to learn about potential fixes to prevent future crashes.</string>
+    <string name="0_resource_name_obfuscated_7f11015a">Shizuku crashed recently</string>
 </resources>
